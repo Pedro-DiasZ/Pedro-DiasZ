@@ -48,7 +48,7 @@ Task management app with JWT auth, REST API and full CRUD. Deployed on Render an
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pedro-dias-421149348)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-dias-421149348/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pedrohenriquediasmoreira1@gmail.com)
 
 ---
