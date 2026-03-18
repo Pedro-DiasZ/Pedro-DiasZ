@@ -1,4 +1,4 @@
-# Hey, I'm Pedro Dias 👋
+# Hey, I'm Pedro Dias 
 
 ADS student, currently interning at **HouseTI** and focused on building things that actually work — from the database to the interface.
 
@@ -6,7 +6,7 @@ I'm into **Back-end** and **Full Stack** development, with a growing interest in
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Back-end**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -27,26 +27,26 @@ I'm into **Back-end** and **Full Stack** development, with a growing interest in
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📋 [FormsTemplate](https://github.com/Pedro-DiasZ/FormsTemplate)
+### [FormsTemplate](https://github.com/Pedro-DiasZ/FormsTemplate)
 Full-stack form system with multi-step submission, admin dashboard and automated CSV export via n8n.  
 `FastAPI` · `PostgreSQL` · `JavaScript` · `n8n`
 
-### ✅ [ProjectTasks](https://github.com/Pedro-DiasZ/ProjectTasks)
+### [ProjectTasks](https://github.com/Pedro-DiasZ/ProjectTasks)
 Task management app with JWT auth, REST API and full CRUD. Deployed on Render and Vercel.  
 `Flask` · `PostgreSQL` · `JavaScript` · `JWT`
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-DiasZ&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-DiasZ&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
