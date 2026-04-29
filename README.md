@@ -33,9 +33,9 @@ I'm into **Back-end** and **Full Stack** development, with a growing interest in
 Full-stack form system with multi-step submission, admin dashboard and automated CSV export via n8n.  
 `FastAPI` · `PostgreSQL` · `JavaScript` · `n8n`
 
-### [ProjectTasks](https://github.com/Pedro-DiasZ/ProjectTasks)
-Task management app with JWT auth, REST API and full CRUD. Deployed on Render and Vercel.  
-`Flask` · `PostgreSQL` · `JavaScript` · `JWT`
+### [Vortex](https://github.com/Pedro-DiasZ/Vortex)
+Suíte de diagnósticos de rede e segurança de e-mail, incluindo análise de DNS, geolocalização de IP e monitoramento de reputação em blacklists.  
+`FastAPI` · `Python` · `DNS Analysis` · `Network Security`
 
 ---
 
